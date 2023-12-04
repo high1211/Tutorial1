@@ -6,4 +6,8 @@ First Git Commit
 Tutorial commit
 Tutorial2 commit
 
+<<<<<<< HEAD
 加入等級系統
+=======
+加入任務功能
+>>>>>>> branch1
